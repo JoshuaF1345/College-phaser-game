@@ -6,6 +6,7 @@ playGame.prototype = {
     toggleon = false;
     game.sweets = 0;
     game.p1health = 500;
+    game.score = 0;
     this.bg = game.add.tileSprite(0, 0, 5000, 5000, 'game_background');
     
     
