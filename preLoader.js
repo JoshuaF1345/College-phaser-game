@@ -6,7 +6,7 @@ preloadAssets.prototype = {
     game.load.image('start_background', 'assets/title1345.png');
     game.load.image('game_background', 'assets/bck01345.png');
     game.load.image('end_background', 'assets/gameover2.jpg');
-    game.load.image('bear', 'assets/Bearchar.png');
+    game.load.image('bear', 'assets/BearChar.png');
     game.load.spritesheet('mainchar', 'assets/sprite1345.png', 26, 32);
 //game.load.spritesheet('mainchar', 'assets/sprite1345.png', 32, 26);
     game.load.image('strt_button', 'assets/startbtn.png', 150, 250);
@@ -16,7 +16,7 @@ preloadAssets.prototype = {
     game.load.image('mainmenubtn', 'assets/mainmenubtn.png', 150, 250);
     game.load.image('savesweetsbtn', 'assets/savesweetsbtn.png', 150, 250);
      game.load.image('loadsweetsbtn', 'assets/loadsweetsbtn.png', 150, 250);
-    game.load.image('bear2', 'assets/bearchar2.png');
+    game.load.image('bear2', 'assets/Bearchar2.png');
     game.load.image('Rstscorebtn', 'assets/Rstscorebtn.png');
      game.load.image('movearrow', 'assets/Onscreenarrrow.png');
     game.load.spritesheet('blackhole', 'assets/blackhole.png', 400, 400);
