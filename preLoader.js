@@ -6,7 +6,7 @@ preloadAssets.prototype = {
     game.load.image('start_background', 'assets/title1345.png');
     game.load.image('game_background', 'assets/bck01345.png');
     game.load.image('end_background', 'assets/gameover2.jpg');
-    game.load.image('bear', 'assets/bearchar.png');
+    game.load.image('bear', 'assets/Bearchar.png');
     game.load.spritesheet('mainchar', 'assets/sprite1345.png', 26, 32);
 //game.load.spritesheet('mainchar', 'assets/sprite1345.png', 32, 26);
     game.load.image('strt_button', 'assets/startbtn.png', 150, 250);
