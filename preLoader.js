@@ -15,10 +15,10 @@ preloadAssets.prototype = {
     game.load.image('levelselbtn', 'assets/levelselbtn.png', 150, 250);
     game.load.image('mainmenubtn', 'assets/mainmenubtn.png', 150, 250);
     game.load.image('savesweetsbtn', 'assets/savesweetsbtn.png', 150, 250);
-     game.load.image('loadsweetsbtn', 'assets/loadsweetsbtn.png', 150, 250);
+    game.load.image('loadsweetsbtn', 'assets/loadsweetsbtn.png', 150, 250);
     game.load.image('bear2', 'assets/Bearchar2.png');
     game.load.image('Rstscorebtn', 'assets/Rstscorebtn.png');
-     game.load.image('movearrow', 'assets/Onscreenarrrow.png');
+    game.load.image('movearrow', 'assets/Onscreenarrrow.png');
     game.load.spritesheet('blackhole', 'assets/blackhole.png', 400, 400);
     game.load.spritesheet('Winnertxt', 'assets/YouWin.png', 250, 200);
   },
